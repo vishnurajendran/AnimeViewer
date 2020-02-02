@@ -9952,3 +9952,47 @@
    at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
    at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
    at Awesomium.Core.WebCore.ioXQMTP1sf()
+[0202/183050:INFO:(0)] WebCore is now online.
+[0202/183050:INFO:(0)] Running Awesomium 1.7.5.1
+[0202/183057:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183057:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183058:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183058:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183058:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183058:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183109:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[0202/183138:INFO:(0)] WebCore is now online.
+[0202/183138:INFO:(0)] Running Awesomium 1.7.5.1
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183146:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183201:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[0202/183319:INFO:(0)] WebCore is now online.
+[0202/183319:INFO:(0)] Running Awesomium 1.7.5.1
+[0202/183326:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183327:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183327:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183327:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183327:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183327:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183341:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[0202/183450:INFO:(0)] WebCore is now online.
+[0202/183450:INFO:(0)] Running Awesomium 1.7.5.1
+[0202/183456:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183457:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183457:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183457:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183457:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
+[0202/183457:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server cdn.betterttv.net:443 failed; NSS error code -12190, net_error -107
